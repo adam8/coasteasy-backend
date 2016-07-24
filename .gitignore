@@ -1,0 +1,4 @@
+rethinkdb_data
+.hz
+.DS_Store
+node_modules
